@@ -25,3 +25,5 @@ Lab 3.7 - Amazon SageMaker - Hyperparameter Tuning
 Module 3 Knowledge Check
 <img width="1692" height="984" alt="image" src="https://github.com/user-attachments/assets/5642576e-9e63-44c0-916d-bcdf449085e7" />
 
+Challenge lab
+<img width="1098" height="648" alt="截圖 2026-11-14 19 54 53" src="https://github.com/user-attachments/assets/f57d1947-bb9f-44c5-b841-448dcc4ba32a" />
