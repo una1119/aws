@@ -27,3 +27,6 @@ Module 3 Knowledge Check
 
 Challenge lab
 <img width="1098" height="648" alt="截圖 2026-11-14 19 54 53" src="https://github.com/user-attachments/assets/f57d1947-bb9f-44c5-b841-448dcc4ba32a" />
+
+Module 4 Knowledge Check
+<img width="1482" height="916" alt="image" src="https://github.com/user-attachments/assets/b1b8dcb3-733a-4586-8856-cabcb808fe53" />
